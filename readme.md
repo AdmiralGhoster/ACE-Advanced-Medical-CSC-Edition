@@ -1,3 +1,8 @@
+# The CSC edit
+
+this repo/fork is for the CSC Arma group and is an update to the upstream mod to make it compatable with Ace version 3.17 +
+
+
 The only changes made by this repository are with regards to ADV ACE-CPR. The other mods included here are unchanged from the
 [upstream repository][ADV].
 
